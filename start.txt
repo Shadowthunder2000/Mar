@@ -1,0 +1,1 @@
+start nodescript.ps1
